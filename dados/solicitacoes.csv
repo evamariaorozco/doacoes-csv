@@ -1,0 +1,4 @@
+numero;solicitanteId;categoriaId;dataSolicitacao;quantidadeSolicitada;quantidadeAprovada;justificativa;status;dataDecisao;motivoDecisao
+SOL-0001;10;3;2026-10-15T09:30;2;2;Montagem de laboratório na escola comunitária;APROVADA;2026-10-16T14:00;
+SOL-0002;11;1;2026-11-03T10:15;3;0;"Estudante de TI; precisa de periféricos para estudar";PENDENTE_APROVACAO;;
+SOL-0003;12;2;2026-11-05T16:40;1;0;Curso técnico em informática;PENDENTE_APROVACAO;;

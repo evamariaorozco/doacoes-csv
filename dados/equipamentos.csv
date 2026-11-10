@@ -1,0 +1,6 @@
+codigo;tipo;funcionalidade;marca;estadoConservacao;classificacaoUso;dataCatalogacao;status;categoriaId;solicitacaoNumero
+EQ-0001;Mouse;Entrada de dados;Dell;BOM;Estudo;2026-10-02;DISPONIVEL;1;
+EQ-0002;Notebook;Computação pessoal;Lenovo;REGULAR;Estudo;2026-10-05;DISPONIVEL;2;
+EQ-0003;Monitor;Exibição;Samsung;NOVO;Trabalho;2026-10-08;RESERVADO;3;SOL-0001
+EQ-0004;Headset;Áudio;JBL;BOM;Estudo;2026-10-12;ENTREGUE;1;SOL-0001
+EQ-0005;SSD 240GB;Armazenamento;Kingston;NOVO;"Uso geral; upgrade";2026-10-20;DISPONIVEL;4;
